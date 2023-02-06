@@ -244,6 +244,11 @@ _G.packer_plugins = {
     path = "/home/matte/.local/share/nvim/site/pack/packer/start/vim-tmux-navigator",
     url = "https://github.com/christoomey/vim-tmux-navigator"
   },
+  vimwiki = {
+    loaded = true,
+    path = "/home/matte/.local/share/nvim/site/pack/packer/start/vimwiki",
+    url = "https://github.com/vimwiki/vimwiki"
+  },
   ["which-key.nvim"] = {
     loaded = true,
     path = "/home/matte/.local/share/nvim/site/pack/packer/start/which-key.nvim",
