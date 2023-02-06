@@ -19,6 +19,7 @@ mason_lspconfig.setup({
 	ensure_installed = {
 		"tsserver",
 		"sumneko_lua",
+		"marksman",
 	},
 })
 
