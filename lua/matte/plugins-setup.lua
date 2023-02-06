@@ -63,7 +63,6 @@ return require("packer").startup(function(use)
 	use("christoomey/vim-tmux-navigator")
 	use("nvim-telescope/telescope-file-browser.nvim")
 	use("folke/which-key.nvim")
-	use("nvim-orgmode/orgmode")
 	use({
 		"ldelossa/gh.nvim",
 		requires = { { "ldelossa/litee.nvim" } },

@@ -209,11 +209,6 @@ _G.packer_plugins = {
     path = "/home/matte/.local/share/nvim/site/pack/packer/start/nvim-web-devicons",
     url = "https://github.com/kyazdani42/nvim-web-devicons"
   },
-  orgmode = {
-    loaded = true,
-    path = "/home/matte/.local/share/nvim/site/pack/packer/start/orgmode",
-    url = "https://github.com/nvim-orgmode/orgmode"
-  },
   ["packer.nvim"] = {
     loaded = true,
     path = "/home/matte/.local/share/nvim/site/pack/packer/start/packer.nvim",
