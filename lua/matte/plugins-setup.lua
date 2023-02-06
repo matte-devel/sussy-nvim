@@ -60,8 +60,10 @@ return require("packer").startup(function(use)
 	use("akinsho/bufferline.nvim")
 	use("norcalli/nvim-colorizer.lua")
 	use("folke/trouble.nvim")
-	use("glepnir/dashboard-nvim")
 	use("christoomey/vim-tmux-navigator")
+	use("nvim-telescope/telescope-file-browser.nvim")
+	use("folke/which-key.nvim")
+	use("nvim-orgmode/orgmode")
 	use({
 		"ldelossa/gh.nvim",
 		requires = { { "ldelossa/litee.nvim" } },
